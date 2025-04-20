@@ -104,7 +104,7 @@ The tool currently supports the following file types:
 
 ## Example
 
-To process the compressed files in the directory `/Users/Elnaz1/Documents/data from the servers /miniscope /A0600/A0634`, you would run the following command:
+To process the compressed files in the directory `/Users/Data /miniscope /AXXXX/AXXXX`, you would run the following command:
 
 ```bash
-python3 read_compressed.py "/Users/Elnaz1/Documents/data from the servers /miniscope /A0600/A0634"
+python3 read_compressed.py "/Users/Data /miniscope /AXXXX/AXXXX"
